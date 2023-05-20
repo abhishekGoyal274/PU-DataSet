@@ -1,0 +1,10 @@
+{
+   "env":{
+       "DB_USER":"zura",
+       "DB_PASSWORD":"1ankitsinha",
+       "DB_NAME":"DIC-Data-Set-Project",
+       "SEND_GRID_KEY":"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",
+       "SEND_GRID_KEY_old": "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"
+
+   }
+}
